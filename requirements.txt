@@ -1,0 +1,3 @@
+# PyDesk Relay Server
+# No external Python packages required
+# Uses only Python standard library
